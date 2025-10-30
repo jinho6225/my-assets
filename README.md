@@ -1,0 +1,16 @@
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/bundesliga_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/epl_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/j1_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/jvolley_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/kbo_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/kovo_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/laliga_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/mlb_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/mls_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/mortgage_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/nba_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/nfl_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/nhl_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/npb_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/seriea_icon.png
+https://cdn.jsdelivr.net/gh/jinho6225/my-assets@main/icons/svleague_icon.png
